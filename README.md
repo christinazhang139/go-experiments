@@ -1,2 +1,24 @@
-# go-experiments
-Go language experiments for practicing cryptography, string processing, and algorithmic problem solving.
+# Go 实验练习集 🧪
+
+这是我的个人 Go 编程学习仓库，记录了我每天进行的 Go 语言实验。  
+内容涵盖基础语法、经典算法、加密实现、小项目练习等，持续更新中。
+
+---
+
+## 📘 实验列表
+
+| 天数 | 文件夹 | 内容简介 |
+|------|--------|----------|
+| 第 1 天 | [caesar-cipher](./caesar-cipher) | 凯撒加密与解密（Caesar Cipher） |
+| 第 2 天 | _待添加_ | ... |
+
+---
+
+## 🛠 使用方法
+
+每个子文件夹是一个独立的 Go 小项目，包含 `main.go` 程序文件。
+
+进入对应目录后可使用以下命令运行：
+
+```bash
+go run main.go
