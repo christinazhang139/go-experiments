@@ -10,7 +10,7 @@
 | 天数 | 文件夹 | 内容简介 |
 |------|--------|----------|
 | 第 1 天 | [caesar-cipher](./caesar-cipher) | 凯撒加密与解密（Caesar Cipher） |
-| 第 2 天 | _待添加_ | ... |
+| 第 2 天 | [Guess Number](./guess-number)| 猜数字 |
 
 ---
 
